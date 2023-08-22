@@ -15,8 +15,8 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Repository’nin clone’lanması
 - [x]  Repository’de değişiklik yapma
 - [x]  Değişiklikleri Local olarak commit etmek
-- [x]  Değişiklikleri GitHub'a Taşıma
-- [x]  Standart İş Akışı
+- [ ]  Değişiklikleri GitHub'a Taşıma
+- [ ]  Standart İş Akışı
 
 
 ---
